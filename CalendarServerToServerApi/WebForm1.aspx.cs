@@ -7,7 +7,7 @@ namespace CalendarServerToServerApi
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
- // create event which you want to set using service account authentication 
+        // create event which you want to set using service account authentication 
         Event myEvent = new Event
         {
             Summary = "Visa Counselling",
@@ -35,7 +35,13 @@ namespace CalendarServerToServerApi
 
         protected void Page_Load(object sender, EventArgs e)
         {
-           string[] scopes = new string[] {
+
+        }
+
+
+        public void Authenticate(object o, EventArgs e)
+       {
+            string[] scopes = new string[] {
      CalendarService.Scope.Calendar //, // Manage your calendars
  	//CalendarService.Scope.CalendarReadonly // View your Calendars
  };
@@ -44,11 +50,12 @@ namespace CalendarServerToServerApi
             //go to setting >>calenders tab >> select calendar >>Under calender Detailes at Calendar Address:
 
             string filePath = Server.MapPath("~/Key/key.json");
-            var service=ServiceAccountExample.AuthenticateServiceAccount("xyz@projectName.iam.gserviceaccount.com",filePath, scopes);
+            var service = ServiceAccountExample.AuthenticateServiceAccount("xyz@projectName.iam.gserviceaccount.com", filePath, scopes);
             //"xyz@projectName.iam.gserviceaccount.com" this is your service account email id replace with your service account emailID you got it .
             //when you create service account https://console.developers.google.com/projectselector/iam-admin/serviceaccounts
 
             insert(service, cal_user, myEvent);
+
         }
        
        
