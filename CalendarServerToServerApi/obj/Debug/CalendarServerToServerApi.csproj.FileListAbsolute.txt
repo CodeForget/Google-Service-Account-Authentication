@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.PlatformServices.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Calendar.v3.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Core.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.PlatformServices.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Calendar.v3.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Core.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.dll
+c:\users\admin\documents\visual studio 2017\Projects\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.pdb
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.dll.config
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\CalendarServerToServerApi.pdb
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.PlatformServices.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Calendar.v3.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Core.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.PlatformServices.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Newtonsoft.Json.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Auth.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Calendar.v3.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Google.Apis.Core.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\bin\Newtonsoft.Json.xml
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.csprojResolveAssemblyReference.cache
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.dll
+D:\_Shivam\CalendarServerToServerApi\CalendarServerToServerApi\obj\Debug\CalendarServerToServerApi.pdb
