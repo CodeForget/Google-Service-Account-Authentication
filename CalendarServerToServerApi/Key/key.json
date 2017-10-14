@@ -1,0 +1,13 @@
+//replace your downloaded Json Private key it you got when you create service account 
+{
+  "type": "service_account",
+  "project_id": "1325486433154871164",
+  "private_key_id": "446r4rt4324fb3rthg2354sdf23fj4ty4df32sdg4er4hgr3t4jd1fv.2ad1fh34wrtju43f3.21ab3rh45wr",
+  "private_key": "-----BEGIN PRIVATE KEY---\n-----END PRIVATE KEY-----\n",
+  "client_email": "xyz@projectName.iam.gserviceaccount.com",
+  "client_id": "456218866211366",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xyz%40projectName.iam.gserviceaccount.com"
+}
